@@ -19,7 +19,7 @@ Diretório utilizado para armazenar informações, materiais, links e tudo que f
   - (continua...)
   
 ### Conteúdo disponibilizado
-  - [HTML/CSS](#)
+  - [HTML/CSS](https://github.com/gpd38/whatsappDevMania/tree/main/html-css)
   - [JavaScript](#)
   - [JQuery](#)
   - [Python](#)
