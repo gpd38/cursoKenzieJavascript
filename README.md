@@ -5,9 +5,18 @@ Jornada de conhecimento DEV - Experiência Kenzie
   - HTML/CSS
   - JavaScript ECMA
   - Jquery
-  - Pynthon
+  - Python
   - Java
   - SQL
+  - (continua...)
+  
+### Conteúdo disponibilizado
+  - [HTML/CSS](#)
+  - [JavaScript](#)
+  - [JQuery](#)
+  - [Python](#)
+  - [Java](#)
+  - [SQL](#)
 
 ### Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
