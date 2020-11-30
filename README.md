@@ -8,3 +8,6 @@ Jornada de conhecimento DEV - Experiência Kenzie
   - Pynthon
   - Java
   - SQL
+
+### Licença
+Este projeto esta sobe a licença [MIT](./LICENSE).
