@@ -10,6 +10,13 @@ Esse grupo foi criado após um minicurso online da Kenzie Academy.
 	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/whatsappDevMania">
 </p>
 
+### Links postados no grupo
+
+|Usuário|Data do post|Informação|Indicações|
+|---|---|---|---|
+|||||
+|||||
+
 ### Aprendizado
   - HTML/CSS
   - JavaScript ECMA
