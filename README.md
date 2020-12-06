@@ -1,7 +1,8 @@
 # Dev Mania
 Grupo de whatsapp criado por Sandra Martini.
 
-Diretório utilizado para armazenar informações, materiais, links e tudo que for interessante que esteja relacionado ao grupo do whatsapp "DevMania"
+Diretório utilizado para armazenar informações, materiais, links e tudo que for interessante que esteja relacionado ao grupo do whatsapp "DevMania".
+Esse grupo foi criado após um minicurso online da Kenzie Academy.
 
 <p align="center">
 	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/whatsappDevMania">
