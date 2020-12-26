@@ -81,8 +81,10 @@ Fundamentos de programação com JavaScript
   - Javascript
   - Codepen.io
   
-### Conteúdo disponibilizado
-Para quem tem cadastro, basta acessar o [canvas](https://experiencia.kenzie.com.br/courses/5) com seu login e senha
+### Material
+  - [Livros](https://github.com/gpd38/cursoKenzieJavascript/tree/main/livros)
+  - [Vídeos](https://drive.google.com/drive/folders/1UVsy1QIkAwoH8Mkd4lggkRGGl_r0SqaR)
+  - [Aulas](https://drive.google.com/drive/folders/1gRBWJcOlkhUiki4o9S6Snocaxe8zeEus)
 
 ### Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
