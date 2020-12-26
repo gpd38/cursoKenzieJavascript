@@ -71,8 +71,8 @@ Fundamentos de programação com JavaScript
 │   ├── 49 - Conteúdo Suplementar: Javascript
 │   ├── 50 - Lista de exercícios - Dia 8
 │   └── 51 - Lista de exercícios simplificados - Dia 8
-├── Dia 9 - Projeto Final
-│   └── 53 - Entrega - Mostre seu conhecimento - Final
+└── Dia 9 - Projeto Final
+    └── 53 - Entrega - Mostre seu conhecimento - Final
 ```
 
 ### Tecnologias / linguagens utilizadas
